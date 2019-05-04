@@ -2,10 +2,10 @@
 
 # Dockerized Verdaccio
 
-###Prerequisites
+### Prerequisites
 * Docker
 
-###How it works
+### How it works
 ```
 docker-compose up
 ```
